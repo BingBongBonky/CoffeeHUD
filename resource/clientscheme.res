@@ -3029,6 +3029,77 @@ Scheme
 			}
 		}
 	}
+			"LEMONMILKRegular12"
+		{
+			"1"
+			{
+				"name"		"LEMONMILK-Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+
+		"LEMONMILKRegular16"
+		{
+			"1"
+			{
+				"name"		"LEMONMILK-Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"LEMONMILKRegular24"
+		{
+			"1"
+			{
+				"name"		"LEMONMILK-Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"LEMONMILKRegular32"
+		{
+			"1"
+			{
+				"name"		"LEMONMILK-Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"LEMONMILKRegular36"
+		{
+			"1"
+			{
+				"name"		"LEMONMILK-Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"LEMONMILKRegular42"
+		{
+			"1"
+			{
+				"name"		"LEMONMILK-Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"LEMONMILKRegular48"
+		{
+			"1"
+			{
+				"name"		"LEMONMILK-Regular"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+	
+	//CoffeeHUD fonts
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5838,6 +5909,21 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
+		}
+		"8"
+		{
+			"font"	"resource/fonts/LEMONMILK-Regular.otf"
+			"name"	"LEMONMILK-Regular"
+		}
+		"9"
+		{
+			"font"	"resource/fonts/LEMONMILK-Bold.otf"
+			"name"	"LEMONMILK-Bold"
+		}
+		"10"
+		{
+			"font"	"resource/fonts/LEMONMILK-Light.otf"
+			"name"	"LEMONMILK-Light"
 		}
 	}
 }
